@@ -1,28 +1,42 @@
 
 # 📚 ACDY E-Commerce Website
 
-The ultimate **Goal** of this project is to help BCA
-students by providing notes of BCA *(Bachelor of Computer
-Application)*. According to the syllabus of [KBC North 
-Maharashtra University](http://nmu.ac.in).
+<img align="center" src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" height="300px" width="100%" />
+
+The ultimate **Goal** of this project is to create a 
+fully functional E-commcerce Platform for people who
+struggle to get items from shops. This platform provides
+variety of items and can be delivered to buyer's address
+without difficulties.
+
 
 ## 📱 Features
 
-- Modern UI Design and Animations
-- One Page Layout
-- Fully Responsive
-- Valid **HTML5** & **CSS3**
-- Optimized with **Netlify**
+- Modern UI Design and Animations.
+- Component Based Design.
+- Fully Responsive.
+- Valid **HTML5** & **CSS3**.
+- Authentication.
+
+## Requirements
+- Node.
+- Visual Studio Code.
+
+## Installation
+Before downloading the project, ensure than you have all the neccessary requirements on your machine.
+- **Step 1 :** Download Project From GitHub.
+- **Step 2 :** Extract Zip File.
+- **Step 3 :** Open First Command Line in frontend Folder and Second in backend Folder.
+- **Step 4 :**
 
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| backgrounds   | ![#add8e6](https://via.placeholder.com/10/add8ef?text=+) #add8e6 ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| notesbyus btn background | ![#f4d47c](https://via.placeholder.com/10/f4d47c?text=+) #f4d47c |
-| syllabus btn | ![#f26d21](https://via.placeholder.com/10/f26d21?text=+) #f26d21  |
-| intro icons,subjects      | ![#093145](https://via.placeholder.com/10/093145?text=+) #093145 |
-| hover over | ![#6495ed](https://via.placeholder.com/10/6495ed?text=+) #6495ed |
+| backgrounds   | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000, ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff, ![#30334e](https://via.placeholder.com/10/30334e?text=+) #30334e |
+| btn backgrounds | ![#4b70e2](https://via.placeholder.com/10/4b70e2?text=+) #4b70e2, ![#f5e342](https://via.placeholder.com/10/f5e342?text=+) #f5e342, ![#962424](https://via.placeholder.com/10/962424?text=+) #962424,![#05fa32](https://via.placeholder.com/10/05fa32?text=+) #05fa32 |
+| text | ![#fbe8d3](https://via.placeholder.com/10/fbe8d3?text=+) #fbe8d3, ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff, ![#000000](https://via.placeholder.com/10/000000?text=+) #000000, ![#8777a3](https://via.placeholder.com/10/8777a3?text=+) #8777a3  |
+| icons      | ![#fbe8d3](https://via.placeholder.com/10/fbe8d3?text=+) #fbe8d3 |
 
 
 ## 🚀 About Me
