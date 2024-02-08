@@ -1,7 +1,7 @@
 
 # 📚 ACDY E-Commerce Website
 
-<img align="center" src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" height="300px" width="100%" />
+<img align="center" src="https://github.com/YASH0DIP/Ecommerce-Website-using-MERN-Stack/blob/main/Screenshots/HomePage.png?raw=true" height="500px" width="100%" />
 
 The ultimate **Goal** of this project is to create a 
 fully functional E-commcerce Platform for people who
@@ -26,8 +26,8 @@ without difficulties.
 Before downloading the project, ensure than you have all the neccessary requirements on your machine.
 - **Step 1 :** Download Project From GitHub.
 - **Step 2 :** Extract Zip File.
-- **Step 3 :** Open First Command Line in frontend Folder and Second in backend Folder.
-- **Step 4 :**
+- **Step 3 :** Open Project Folder into Visual Studio Code.
+- **Step 4 :** Open First Terminal into backend Folder.
 
 ## Color Reference
 
