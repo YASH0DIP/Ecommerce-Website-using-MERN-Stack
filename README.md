@@ -1,7 +1,7 @@
 
 # 🛄 ACDY E-Commerce Website
 
-<img align="center" src="https://github.com/YASH0DIP/Ecommerce-Website-using-MERN-Stack/blob/main/Screenshots/HomePage.png?raw=true" height="500px" width="100%" />
+<img align="center" src="https://github.com/YASH0DIP/Ecommerce-Website-using-MERN-Stack/blob/main/Screenshots/HomePage.png?raw=true" height="450px" width="100%" />
 
 The ultimate **Goal** of this project is to create a 
 fully functional E-commcerce Platform for people who
