@@ -54,6 +54,7 @@ I want to become a **full stack developer**. Currently a **MCA Student** and loo
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></span>
 <br/><br/>
+<span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></span>
@@ -67,10 +68,5 @@ I want to become a **full stack developer**. Currently a **MCA Student** and loo
 ## 📞 Feedback
 
 If you have any feedback, please reach out to me at jainyashodip777@gmail.com
-
-## License
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
 
 ## *Happy Coding!* 👋
