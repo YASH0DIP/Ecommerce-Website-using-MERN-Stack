@@ -79,7 +79,7 @@ const Home = () => {
           <ul type="none"><b>About</b>
             <a href="#"><li>Contact US</li></a>
             <a href="#"><li><Link to="/about">About US</Link></li></a>
-            <a href="#"><li>Hishtory US</li></a>
+            <a href="#"><li>History US</li></a>
             <a href="#"><li>Press</li></a>
           </ul>
 
